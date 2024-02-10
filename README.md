@@ -22,7 +22,7 @@ Um simples jogo de adivinhação em Python onde o jogador tem que adivinhar um n
 
 ## Objetivo
 
-Atualmente estou me aventurando no mundo do python, o objetivo desses projeto é colocar em prática
+Atualmente estou me aventurando no mundo do python, o objetivo desse projeto é colocar em prática
 os conceitos que aprendi até o momento.
 
 ## Como Contribuir
